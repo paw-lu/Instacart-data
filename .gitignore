@@ -106,4 +106,4 @@ venv.bak/
 instacart_2017_05_01/
 *.pkl
 *.pkd
-
+*.csv
