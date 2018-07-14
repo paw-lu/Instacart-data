@@ -1,2 +1,0 @@
-Cereals,Coffee,Apples,Yogurt,Cookies,Ice cream,Cake
-hello
